@@ -1,0 +1,69 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "API NOVO LIVRO (Back)",
+            "desc": "Esta é uma API desenvolvida em C#  que realiza o cadastro de livros. Nesta API é possível, além de cadastrar livros, atualizá-los, cadastrar e atualizar o(a) autor(a) e cadastrar e atualizar a editora.",
+            "languages": "C#",
+            "url": "https://github.com/Danielpvbrbr/ApiNewBook",
+            "used": "ASP.NET CORE Web API"
+        },
+        {
+            "id": 2,
+            "title": "NOVO LIVRO (Front)",
+            "desc": "Esta é uma plataforma desenvolvida em JS com Reactjs que realiza o cadastro de livros. Nesta plataforma é possível, além de cadastrar livros, atualizá-los, cadastrar e atualizar o(a) autor(a) e cadastrar e atualizar a editora.",
+            "languages": "JavaScript",
+            "url": "https://github.com/Danielpvbrbr/NewBook_Front",
+            "used": "React.js"
+        },
+        {
+            "id": 3,
+            "title": "LEINCALC (Desktop)",
+            "desc": "Calculadora simples é uma calculadora gratuita para cálculos simples. É possível calcular tipos diferentes de operações: adição, multiplicação e entre outros.",
+            "languages": "C#",
+            "url": "https://github.com/Danielpvbrbr/LeinCalc",
+            "used": "Windows Form App (.NET Framework)"
+        },
+        {
+            "id": 4,
+            "title": "JacaPDV (Desktop)",
+            "desc": "Tenha um controle profissional e eficiente de sua loja em suas mãos com o JacaPDV, controle suas vendas por forma de pagamento (cadastre sua forma de pgto inclua taxas do cartão por exemplo) inclusive sistema de carnê/a prazo com limite para compras e tudo mais.",
+            "languages": "C#",
+            "url": "https://github.com/Danielpvbrbr/JacaPDV.git",
+            "used": "Windows Form App (.NET Framework)"
+        },
+        {
+            "id": 5,
+            "title": "NotePad Online (Front)",
+            "desc": "O Notepad Online é uma sistema web, usado com editor de texto simples que e desenvolvido para guardar anotações, com dados salvo no banco de dados",
+            "languages": "JavaScript",
+            "url": "https://github.com/Danielpvbrbr/notpad-online-front.git",
+            "used": "React.js"
+        },
+        {
+            "id": 6,
+            "title": "NotePad Online (Back)",
+            "desc": "O Notepad Online é uma sistema web, usado com editor de texto simples que e desenvolvido para guardar anotações, com dados salvo no banco de dados",
+            "languages": "JavaScript",
+            "url": "https://github.com/Danielpvbrbr/notpad-online-backend.git",
+            "used": "Node.js"
+        },
+        {
+            "id": 7,
+            "title": "MetaZappi (Front)",
+            "desc": "Front-End Ferramenta de atendimento por WhatsApp, plataforma e softwares integrados ao mensageiro que ajudam você a atender melhor seus clientes.            ",
+            "languages": "JavaScript",
+            "url": "https://github.com/Danielpvbrbr/METAZAPPI.git",
+            "used": "React.js"
+        },
+        {
+            "id": 8,
+            "title": "MetaZappi (Back)",
+            "desc": "Back-End API da Ferramenta de atendimento por WhatsApp, plataforma e softwares integrados ao mensageiro que ajudam você a atender melhor seus clientes.            ",
+            "languages": "JavaScript",
+            "url": "https://github.com/Danielpvbrbr/MetaZapiServer.git",
+            "used": "Node.js"
+        }
+
+    ]
+}
